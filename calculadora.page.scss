@@ -1,0 +1,36 @@
+ion-content {
+    --background: #535353; /* Cambia el color de fondo del contenido a negro */
+  }
+  
+  ion-toolbar {
+    --background: #b87400; /* Cambia el color de fondo de la barra de herramientas  */
+    --color: #fff; /* Cambia el color del texto en la barra de herramientas a blanco */
+  }
+  
+  ion-card {
+    margin: 20px auto; /* Ajusta el margen de la tarjeta */
+    max-width: 600px; /* Ajusta el ancho máximo de la tarjeta */
+    background-color: #f6a700; /* Cambia el color de fondo de la tarjeta a negro */
+    border-radius: 15px; /* Redondea los bordes de la tarjeta */
+  }
+  
+  ion-row {
+    justify-content: space-between; /* Distribuye uniformemente los botones dentro de la fila */
+  }
+  
+  ion-button {
+    margin: 5px; /* Agrega un pequeño margen entre los botones */
+    --background: #fed353; /* Cambia el color de fondo de los botones a verde neon */
+    --color: #000; /* Cambia el color del texto de los botones a negro */
+    border-radius: 50%; /* Redondea los bordes de los botones */
+  }
+  
+  ion-button:hover {
+    --background: #f8fe53; /* Cambia el color de fondo de los botones a un tono más oscuro al pasar el mouse */
+  }
+  
+  ion-input {
+    text-align: right; /* Alinea el texto de la entrada a la derecha */
+    font-size: 24px; /* Cambia el tamaño de fuente del input */
+    --background:
+  }  
